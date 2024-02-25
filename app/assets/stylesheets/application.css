@@ -14,25 +14,25 @@
  *= require_self
  */
 
- body {
-    display: flex;
-    justify-content: center;
-    font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    margin: 2rem;
-    padding: 5rem;
-    text-align: center;
+body {
+  display: flex;
+  justify-content: center;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 2rem;
+  padding: 5rem;
+  text-align: center;
 }
 
 h1 {
-    font-size: 1rem;
-    font-style: italic;
+  font-size: 1rem;
+  font-style: italic;
 }
 
 h2 {
-    font-size: 4rem;
-    border: 1px black solid;
-    padding: 1.5rem;
-    border-radius: 10px;
+  font-size: 4rem;
+  border: 1px black solid;
+  padding: 1.5rem;
+  border-radius: 10px;
 }
