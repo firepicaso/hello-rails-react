@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <>
-      <h1>Hello reviewer</h1>
+      <h1>Greetings of the Day</h1>
       <Routes>
         <Route
           path="/"
