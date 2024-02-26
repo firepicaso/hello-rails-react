@@ -8,7 +8,7 @@ const Greeting = () => {
 
   useEffect(() => {
     dispatch(fetchGreeting());
-  }, []);
+  }, [dispatch]);
 
   return <h2>{greeting}</h2>
 }
